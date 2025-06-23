@@ -1,4 +1,4 @@
 package configuration.models;
 
-public class configuration {
+public enum SourceType {
 }
